@@ -1,16 +1,16 @@
 var images=
 [
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/1.jpg",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/2.jpg",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/3.jpg",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/4.png",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/5.jpg",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/6.png",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/7.png",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/8.png",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/9.png",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/10.png",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/11.png",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/12.jpg",
-  "https://raw.githubusercontent.com/Komeiji-V/api/main/13.png"
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/1.jpg",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/2.jpg",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/3.jpg",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/4.png",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/5.jpg",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/6.png",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/7.png",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/8.png",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/9.png",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/10.png",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/11.png",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/12.jpg",
+  "https://raw.githubusercontent.com/Komeiji-V/api/main/image/13.png"
 ]
